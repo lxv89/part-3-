@@ -1,4 +1,3 @@
-/**/
 p1 = .Person~New
 p1~firstName = "Mykhailo"
 p1~familyName = "Harkavenko"
