@@ -2,7 +2,7 @@
 p1 = .Person~New
 p1~firstName = "Mykhailo"
 p1~familyName = "Harkavenko"
-p1~salary = 25000
+p1~salary = 1000
 
 SAY p1~firstName p1~familyName p1~salary
 
